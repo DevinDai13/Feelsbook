@@ -1,3 +1,5 @@
-# Feelsbook
+# FeelsBook
 
-An application that is used to record user emotions.
+CMPUT 301 Assignment 1
+
+An application that is used to record the user's emotions.
